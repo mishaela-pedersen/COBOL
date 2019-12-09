@@ -1,0 +1,1 @@
+Each data record contains the order number, pizza type, quantity of pizzas ordered, the price per pizza and the total price of the order.
